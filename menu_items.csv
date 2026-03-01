@@ -1,0 +1,601 @@
+item_id,item_name,category,price
+item_1,Spicy Water 1,Beverage,354
+item_2,Spicy Water 2,Beverage,135
+item_3,Royal Water 3,Beverage,248
+item_4,Classic Wings 4,Starter,561
+item_5,Spicy Cold Coffee 5,Beverage,685
+item_6,Spicy Salan 6,Side,755
+item_7,Spicy Salan 7,Side,729
+item_8,Spicy Pasta 8,Main,116
+item_9,Royal Salan 9,Side,209
+item_10,Spicy Ice Cream 10,Dessert,654
+item_11,Classic Coke 11,Beverage,643
+item_12,Classic Gulab Jamun 12,Dessert,450
+item_13,Classic Pasta 13,Main,433
+item_14,Spicy Fries 14,Starter,101
+item_15,Royal Pizza 15,Main,429
+item_16,Classic Shake 16,Beverage,532
+item_17,Classic Gulab Jamun 17,Dessert,651
+item_18,Classic Raita 18,Side,725
+item_19,Royal Biryani 19,Main,736
+item_20,Royal Biryani 20,Main,494
+item_21,Classic Ice Cream 21,Dessert,279
+item_22,Classic Salan 22,Side,248
+item_23,Spicy Garlic Bread 23,Starter,741
+item_24,Royal Coke 24,Beverage,499
+item_25,Spicy Water 25,Beverage,565
+item_26,Classic Coke 26,Beverage,650
+item_27,Classic Pasta 27,Main,722
+item_28,Classic Burger 28,Main,180
+item_29,Royal Salan 29,Side,582
+item_30,Classic Gulab Jamun 30,Dessert,483
+item_31,Classic Garlic Bread 31,Starter,529
+item_32,Spicy Garlic Bread 32,Starter,454
+item_33,Classic Cold Coffee 33,Beverage,398
+item_34,Royal Brownie 34,Dessert,239
+item_35,Spicy Roll 35,Starter,115
+item_36,Classic Brownie 36,Dessert,254
+item_37,Spicy Water 37,Beverage,240
+item_38,Classic Roll 38,Starter,119
+item_39,Royal Thali 39,Main,416
+item_40,Royal Gulab Jamun 40,Dessert,748
+item_41,Royal Extra Dip 41,Side,353
+item_42,Royal Coke 42,Beverage,183
+item_43,Royal Coke 43,Beverage,757
+item_44,Classic Biryani 44,Main,251
+item_45,Classic Water 45,Beverage,590
+item_46,Classic Burger 46,Main,752
+item_47,Classic Roll 47,Starter,714
+item_48,Royal Gulab Jamun 48,Dessert,582
+item_49,Classic Ice Cream 49,Dessert,391
+item_50,Classic Ice Cream 50,Dessert,767
+item_51,Royal Fries 51,Starter,111
+item_52,Spicy Gulab Jamun 52,Dessert,332
+item_53,Spicy Extra Dip 53,Side,291
+item_54,Spicy Brownie 54,Dessert,550
+item_55,Spicy Gulab Jamun 55,Dessert,390
+item_56,Spicy Salan 56,Side,180
+item_57,Royal Pizza 57,Main,709
+item_58,Royal Pasta 58,Main,533
+item_59,Classic Extra Dip 59,Side,519
+item_60,Spicy Wings 60,Starter,325
+item_61,Royal Water 61,Beverage,558
+item_62,Spicy Water 62,Beverage,257
+item_63,Royal Pizza 63,Main,231
+item_64,Royal Extra Dip 64,Side,528
+item_65,Royal Brownie 65,Dessert,527
+item_66,Royal Garlic Bread 66,Starter,326
+item_67,Royal Extra Dip 67,Side,315
+item_68,Royal Burger 68,Main,333
+item_69,Spicy Cold Coffee 69,Beverage,775
+item_70,Royal Pizza 70,Main,510
+item_71,Royal Pasta 71,Main,614
+item_72,Spicy Ice Cream 72,Dessert,372
+item_73,Spicy Brownie 73,Dessert,726
+item_74,Classic Water 74,Beverage,327
+item_75,Classic Wings 75,Starter,129
+item_76,Spicy Fries 76,Starter,212
+item_77,Classic Pasta 77,Main,625
+item_78,Royal Shake 78,Beverage,462
+item_79,Classic Shake 79,Beverage,221
+item_80,Spicy Brownie 80,Dessert,171
+item_81,Classic Brownie 81,Dessert,292
+item_82,Spicy Garlic Bread 82,Starter,121
+item_83,Spicy Water 83,Beverage,219
+item_84,Spicy Garlic Bread 84,Starter,409
+item_85,Royal Pasta 85,Main,647
+item_86,Royal Burger 86,Main,255
+item_87,Spicy Brownie 87,Dessert,126
+item_88,Spicy Raita 88,Side,175
+item_89,Spicy Thali 89,Main,268
+item_90,Royal Ice Cream 90,Dessert,537
+item_91,Classic Extra Dip 91,Side,491
+item_92,Spicy Coke 92,Beverage,125
+item_93,Spicy Raita 93,Side,296
+item_94,Classic Wings 94,Starter,651
+item_95,Spicy Roll 95,Starter,592
+item_96,Classic Pasta 96,Main,183
+item_97,Royal Burger 97,Main,257
+item_98,Royal Water 98,Beverage,428
+item_99,Royal Brownie 99,Dessert,679
+item_100,Royal Garlic Bread 100,Starter,336
+item_101,Spicy Roll 101,Starter,454
+item_102,Royal Shake 102,Beverage,369
+item_103,Royal Roll 103,Starter,728
+item_104,Classic Salan 104,Side,612
+item_105,Spicy Salan 105,Side,315
+item_106,Royal Coke 106,Beverage,124
+item_107,Spicy Coke 107,Beverage,539
+item_108,Spicy Wings 108,Starter,134
+item_109,Classic Gulab Jamun 109,Dessert,579
+item_110,Classic Burger 110,Main,461
+item_111,Spicy Salan 111,Side,362
+item_112,Classic Water 112,Beverage,102
+item_113,Royal Salan 113,Side,412
+item_114,Spicy Gulab Jamun 114,Dessert,415
+item_115,Spicy Brownie 115,Dessert,727
+item_116,Spicy Shake 116,Beverage,351
+item_117,Royal Thali 117,Main,294
+item_118,Royal Biryani 118,Main,335
+item_119,Royal Extra Dip 119,Side,164
+item_120,Classic Shake 120,Beverage,605
+item_121,Classic Fries 121,Starter,149
+item_122,Classic Pizza 122,Main,506
+item_123,Royal Extra Dip 123,Side,766
+item_124,Royal Biryani 124,Main,361
+item_125,Spicy Cold Coffee 125,Beverage,287
+item_126,Royal Coke 126,Beverage,605
+item_127,Classic Fries 127,Starter,405
+item_128,Royal Water 128,Beverage,516
+item_129,Classic Wrap 129,Main,555
+item_130,Spicy Cold Coffee 130,Beverage,231
+item_131,Spicy Cold Coffee 131,Beverage,256
+item_132,Spicy Salan 132,Side,175
+item_133,Royal Extra Dip 133,Side,299
+item_134,Royal Salan 134,Side,425
+item_135,Spicy Pizza 135,Main,596
+item_136,Royal Ice Cream 136,Dessert,406
+item_137,Spicy Fries 137,Starter,474
+item_138,Spicy Thali 138,Main,340
+item_139,Spicy Roll 139,Starter,455
+item_140,Classic Burger 140,Main,119
+item_141,Classic Wrap 141,Main,577
+item_142,Classic Brownie 142,Dessert,545
+item_143,Royal Brownie 143,Dessert,418
+item_144,Royal Pizza 144,Main,511
+item_145,Spicy Shake 145,Beverage,266
+item_146,Spicy Burger 146,Main,409
+item_147,Classic Ice Cream 147,Dessert,682
+item_148,Classic Extra Dip 148,Side,332
+item_149,Spicy Water 149,Beverage,669
+item_150,Spicy Brownie 150,Dessert,692
+item_151,Royal Pizza 151,Main,278
+item_152,Royal Brownie 152,Dessert,618
+item_153,Royal Garlic Bread 153,Starter,496
+item_154,Royal Ice Cream 154,Dessert,162
+item_155,Royal Garlic Bread 155,Starter,513
+item_156,Spicy Shake 156,Beverage,192
+item_157,Classic Brownie 157,Dessert,642
+item_158,Classic Burger 158,Main,536
+item_159,Classic Salan 159,Side,610
+item_160,Classic Ice Cream 160,Dessert,525
+item_161,Classic Extra Dip 161,Side,626
+item_162,Spicy Wings 162,Starter,638
+item_163,Classic Water 163,Beverage,571
+item_164,Classic Pizza 164,Main,681
+item_165,Spicy Roll 165,Starter,314
+item_166,Classic Wrap 166,Main,702
+item_167,Spicy Cold Coffee 167,Beverage,273
+item_168,Royal Cold Coffee 168,Beverage,687
+item_169,Classic Cold Coffee 169,Beverage,510
+item_170,Spicy Thali 170,Main,730
+item_171,Royal Water 171,Beverage,280
+item_172,Classic Brownie 172,Dessert,471
+item_173,Royal Cold Coffee 173,Beverage,783
+item_174,Classic Brownie 174,Dessert,744
+item_175,Spicy Extra Dip 175,Side,266
+item_176,Classic Burger 176,Main,160
+item_177,Classic Salan 177,Side,567
+item_178,Spicy Brownie 178,Dessert,228
+item_179,Spicy Thali 179,Main,790
+item_180,Royal Pizza 180,Main,641
+item_181,Classic Pasta 181,Main,272
+item_182,Royal Thali 182,Main,172
+item_183,Classic Brownie 183,Dessert,561
+item_184,Royal Biryani 184,Main,404
+item_185,Royal Ice Cream 185,Dessert,185
+item_186,Royal Roll 186,Starter,173
+item_187,Royal Biryani 187,Main,529
+item_188,Spicy Roll 188,Starter,637
+item_189,Classic Burger 189,Main,286
+item_190,Royal Wings 190,Starter,793
+item_191,Spicy Roll 191,Starter,116
+item_192,Spicy Gulab Jamun 192,Dessert,770
+item_193,Spicy Thali 193,Main,248
+item_194,Royal Extra Dip 194,Side,237
+item_195,Classic Raita 195,Side,302
+item_196,Spicy Garlic Bread 196,Starter,131
+item_197,Spicy Raita 197,Side,568
+item_198,Classic Pizza 198,Main,791
+item_199,Spicy Gulab Jamun 199,Dessert,166
+item_200,Spicy Pizza 200,Main,398
+item_201,Royal Biryani 201,Main,731
+item_202,Classic Coke 202,Beverage,796
+item_203,Classic Ice Cream 203,Dessert,226
+item_204,Royal Fries 204,Starter,530
+item_205,Spicy Extra Dip 205,Side,315
+item_206,Spicy Shake 206,Beverage,720
+item_207,Spicy Thali 207,Main,229
+item_208,Classic Wrap 208,Main,718
+item_209,Classic Coke 209,Beverage,228
+item_210,Spicy Salan 210,Side,591
+item_211,Royal Pizza 211,Main,747
+item_212,Classic Salan 212,Side,709
+item_213,Royal Biryani 213,Main,667
+item_214,Royal Brownie 214,Dessert,310
+item_215,Royal Thali 215,Main,349
+item_216,Classic Wrap 216,Main,204
+item_217,Royal Shake 217,Beverage,576
+item_218,Royal Salan 218,Side,764
+item_219,Spicy Salan 219,Side,654
+item_220,Classic Shake 220,Beverage,276
+item_221,Spicy Fries 221,Starter,196
+item_222,Royal Fries 222,Starter,740
+item_223,Royal Salan 223,Side,776
+item_224,Royal Garlic Bread 224,Starter,737
+item_225,Spicy Brownie 225,Dessert,188
+item_226,Royal Thali 226,Main,648
+item_227,Classic Wrap 227,Main,257
+item_228,Classic Fries 228,Starter,558
+item_229,Classic Burger 229,Main,164
+item_230,Classic Salan 230,Side,471
+item_231,Classic Salan 231,Side,498
+item_232,Spicy Brownie 232,Dessert,474
+item_233,Classic Burger 233,Main,395
+item_234,Royal Raita 234,Side,619
+item_235,Spicy Water 235,Beverage,709
+item_236,Royal Extra Dip 236,Side,694
+item_237,Spicy Garlic Bread 237,Starter,230
+item_238,Classic Extra Dip 238,Side,635
+item_239,Classic Ice Cream 239,Dessert,763
+item_240,Classic Garlic Bread 240,Starter,466
+item_241,Spicy Salan 241,Side,645
+item_242,Classic Extra Dip 242,Side,317
+item_243,Classic Salan 243,Side,596
+item_244,Royal Coke 244,Beverage,663
+item_245,Spicy Coke 245,Beverage,258
+item_246,Spicy Water 246,Beverage,391
+item_247,Royal Biryani 247,Main,253
+item_248,Royal Burger 248,Main,417
+item_249,Spicy Salan 249,Side,675
+item_250,Royal Roll 250,Starter,213
+item_251,Royal Salan 251,Side,579
+item_252,Spicy Water 252,Beverage,739
+item_253,Royal Wrap 253,Main,671
+item_254,Classic Extra Dip 254,Side,284
+item_255,Spicy Biryani 255,Main,394
+item_256,Spicy Pizza 256,Main,324
+item_257,Spicy Salan 257,Side,506
+item_258,Royal Shake 258,Beverage,453
+item_259,Royal Roll 259,Starter,227
+item_260,Spicy Burger 260,Main,209
+item_261,Spicy Water 261,Beverage,325
+item_262,Classic Pizza 262,Main,712
+item_263,Spicy Extra Dip 263,Side,798
+item_264,Royal Salan 264,Side,785
+item_265,Royal Biryani 265,Main,269
+item_266,Classic Raita 266,Side,543
+item_267,Spicy Water 267,Beverage,433
+item_268,Royal Water 268,Beverage,343
+item_269,Classic Thali 269,Main,128
+item_270,Spicy Wings 270,Starter,310
+item_271,Spicy Fries 271,Starter,301
+item_272,Classic Shake 272,Beverage,765
+item_273,Royal Pizza 273,Main,464
+item_274,Spicy Gulab Jamun 274,Dessert,155
+item_275,Spicy Wrap 275,Main,692
+item_276,Classic Water 276,Beverage,462
+item_277,Classic Salan 277,Side,446
+item_278,Spicy Gulab Jamun 278,Dessert,503
+item_279,Classic Coke 279,Beverage,313
+item_280,Royal Cold Coffee 280,Beverage,770
+item_281,Spicy Biryani 281,Main,107
+item_282,Royal Salan 282,Side,547
+item_283,Royal Thali 283,Main,591
+item_284,Royal Water 284,Beverage,345
+item_285,Spicy Wrap 285,Main,256
+item_286,Spicy Raita 286,Side,161
+item_287,Royal Pasta 287,Main,224
+item_288,Royal Extra Dip 288,Side,397
+item_289,Royal Pizza 289,Main,715
+item_290,Spicy Salan 290,Side,765
+item_291,Royal Wrap 291,Main,342
+item_292,Royal Biryani 292,Main,601
+item_293,Classic Brownie 293,Dessert,561
+item_294,Royal Gulab Jamun 294,Dessert,108
+item_295,Royal Fries 295,Starter,131
+item_296,Royal Thali 296,Main,175
+item_297,Spicy Wings 297,Starter,478
+item_298,Spicy Roll 298,Starter,689
+item_299,Classic Wings 299,Starter,469
+item_300,Classic Extra Dip 300,Side,508
+item_301,Royal Fries 301,Starter,205
+item_302,Spicy Extra Dip 302,Side,430
+item_303,Classic Shake 303,Beverage,128
+item_304,Classic Brownie 304,Dessert,381
+item_305,Spicy Salan 305,Side,316
+item_306,Classic Fries 306,Starter,178
+item_307,Classic Raita 307,Side,435
+item_308,Royal Wings 308,Starter,695
+item_309,Spicy Burger 309,Main,485
+item_310,Royal Gulab Jamun 310,Dessert,482
+item_311,Spicy Shake 311,Beverage,156
+item_312,Spicy Pasta 312,Main,132
+item_313,Spicy Shake 313,Beverage,585
+item_314,Classic Ice Cream 314,Dessert,684
+item_315,Spicy Extra Dip 315,Side,746
+item_316,Royal Wings 316,Starter,754
+item_317,Spicy Water 317,Beverage,582
+item_318,Royal Pizza 318,Main,385
+item_319,Classic Roll 319,Starter,737
+item_320,Royal Extra Dip 320,Side,389
+item_321,Royal Burger 321,Main,316
+item_322,Spicy Shake 322,Beverage,366
+item_323,Classic Water 323,Beverage,405
+item_324,Spicy Salan 324,Side,128
+item_325,Royal Extra Dip 325,Side,534
+item_326,Royal Pasta 326,Main,796
+item_327,Royal Ice Cream 327,Dessert,162
+item_328,Classic Wrap 328,Main,792
+item_329,Classic Garlic Bread 329,Starter,334
+item_330,Classic Coke 330,Beverage,403
+item_331,Classic Burger 331,Main,368
+item_332,Spicy Pasta 332,Main,560
+item_333,Spicy Raita 333,Side,497
+item_334,Royal Brownie 334,Dessert,219
+item_335,Royal Extra Dip 335,Side,132
+item_336,Classic Wings 336,Starter,686
+item_337,Spicy Gulab Jamun 337,Dessert,340
+item_338,Classic Cold Coffee 338,Beverage,127
+item_339,Spicy Brownie 339,Dessert,307
+item_340,Royal Garlic Bread 340,Starter,589
+item_341,Spicy Extra Dip 341,Side,106
+item_342,Royal Brownie 342,Dessert,511
+item_343,Classic Pizza 343,Main,503
+item_344,Classic Coke 344,Beverage,120
+item_345,Spicy Pizza 345,Main,629
+item_346,Royal Coke 346,Beverage,195
+item_347,Spicy Extra Dip 347,Side,128
+item_348,Classic Shake 348,Beverage,193
+item_349,Royal Gulab Jamun 349,Dessert,308
+item_350,Spicy Brownie 350,Dessert,504
+item_351,Royal Burger 351,Main,202
+item_352,Spicy Ice Cream 352,Dessert,296
+item_353,Royal Fries 353,Starter,331
+item_354,Classic Garlic Bread 354,Starter,689
+item_355,Classic Fries 355,Starter,119
+item_356,Spicy Gulab Jamun 356,Dessert,175
+item_357,Classic Shake 357,Beverage,345
+item_358,Spicy Ice Cream 358,Dessert,239
+item_359,Spicy Garlic Bread 359,Starter,582
+item_360,Spicy Extra Dip 360,Side,358
+item_361,Royal Coke 361,Beverage,418
+item_362,Spicy Pasta 362,Main,794
+item_363,Royal Raita 363,Side,519
+item_364,Classic Raita 364,Side,196
+item_365,Royal Wings 365,Starter,727
+item_366,Royal Garlic Bread 366,Starter,416
+item_367,Classic Roll 367,Starter,413
+item_368,Classic Wings 368,Starter,337
+item_369,Classic Garlic Bread 369,Starter,504
+item_370,Classic Raita 370,Side,580
+item_371,Classic Wrap 371,Main,646
+item_372,Classic Fries 372,Starter,586
+item_373,Spicy Burger 373,Main,771
+item_374,Classic Wings 374,Starter,220
+item_375,Spicy Raita 375,Side,478
+item_376,Spicy Salan 376,Side,341
+item_377,Spicy Extra Dip 377,Side,713
+item_378,Classic Salan 378,Side,161
+item_379,Classic Wings 379,Starter,631
+item_380,Spicy Water 380,Beverage,116
+item_381,Classic Water 381,Beverage,695
+item_382,Classic Roll 382,Starter,233
+item_383,Classic Extra Dip 383,Side,375
+item_384,Classic Shake 384,Beverage,638
+item_385,Spicy Burger 385,Main,275
+item_386,Classic Shake 386,Beverage,682
+item_387,Royal Garlic Bread 387,Starter,192
+item_388,Classic Fries 388,Starter,511
+item_389,Classic Pasta 389,Main,408
+item_390,Classic Wrap 390,Main,144
+item_391,Royal Gulab Jamun 391,Dessert,597
+item_392,Royal Ice Cream 392,Dessert,240
+item_393,Classic Ice Cream 393,Dessert,610
+item_394,Classic Pasta 394,Main,631
+item_395,Royal Wings 395,Starter,238
+item_396,Royal Shake 396,Beverage,279
+item_397,Classic Wings 397,Starter,555
+item_398,Classic Pasta 398,Main,777
+item_399,Royal Coke 399,Beverage,460
+item_400,Spicy Cold Coffee 400,Beverage,125
+item_401,Royal Salan 401,Side,764
+item_402,Classic Shake 402,Beverage,294
+item_403,Spicy Cold Coffee 403,Beverage,489
+item_404,Royal Wrap 404,Main,391
+item_405,Spicy Coke 405,Beverage,518
+item_406,Classic Thali 406,Main,624
+item_407,Classic Brownie 407,Dessert,378
+item_408,Spicy Salan 408,Side,339
+item_409,Royal Coke 409,Beverage,519
+item_410,Spicy Brownie 410,Dessert,776
+item_411,Spicy Salan 411,Side,549
+item_412,Spicy Wings 412,Starter,489
+item_413,Spicy Pasta 413,Main,282
+item_414,Spicy Raita 414,Side,534
+item_415,Spicy Brownie 415,Dessert,147
+item_416,Spicy Ice Cream 416,Dessert,594
+item_417,Spicy Shake 417,Beverage,364
+item_418,Classic Burger 418,Main,628
+item_419,Royal Salan 419,Side,207
+item_420,Spicy Shake 420,Beverage,689
+item_421,Classic Ice Cream 421,Dessert,258
+item_422,Classic Brownie 422,Dessert,108
+item_423,Spicy Extra Dip 423,Side,681
+item_424,Classic Burger 424,Main,264
+item_425,Royal Shake 425,Beverage,438
+item_426,Spicy Thali 426,Main,278
+item_427,Royal Coke 427,Beverage,555
+item_428,Classic Garlic Bread 428,Starter,296
+item_429,Spicy Fries 429,Starter,298
+item_430,Classic Ice Cream 430,Dessert,596
+item_431,Royal Gulab Jamun 431,Dessert,267
+item_432,Spicy Pasta 432,Main,695
+item_433,Spicy Pasta 433,Main,323
+item_434,Classic Wings 434,Starter,758
+item_435,Spicy Pizza 435,Main,792
+item_436,Classic Coke 436,Beverage,682
+item_437,Royal Brownie 437,Dessert,282
+item_438,Spicy Salan 438,Side,291
+item_439,Royal Shake 439,Beverage,791
+item_440,Royal Fries 440,Starter,213
+item_441,Spicy Cold Coffee 441,Beverage,748
+item_442,Spicy Water 442,Beverage,346
+item_443,Spicy Wrap 443,Main,554
+item_444,Spicy Extra Dip 444,Side,727
+item_445,Royal Extra Dip 445,Side,730
+item_446,Classic Pasta 446,Main,583
+item_447,Classic Water 447,Beverage,572
+item_448,Classic Shake 448,Beverage,337
+item_449,Royal Pasta 449,Main,663
+item_450,Royal Gulab Jamun 450,Dessert,508
+item_451,Classic Gulab Jamun 451,Dessert,167
+item_452,Royal Wings 452,Starter,133
+item_453,Classic Pasta 453,Main,726
+item_454,Spicy Coke 454,Beverage,364
+item_455,Classic Cold Coffee 455,Beverage,629
+item_456,Spicy Extra Dip 456,Side,224
+item_457,Classic Extra Dip 457,Side,252
+item_458,Spicy Ice Cream 458,Dessert,348
+item_459,Spicy Gulab Jamun 459,Dessert,771
+item_460,Royal Wings 460,Starter,300
+item_461,Royal Wings 461,Starter,776
+item_462,Royal Wings 462,Starter,129
+item_463,Spicy Brownie 463,Dessert,537
+item_464,Royal Fries 464,Starter,695
+item_465,Royal Salan 465,Side,245
+item_466,Spicy Salan 466,Side,440
+item_467,Spicy Gulab Jamun 467,Dessert,527
+item_468,Royal Cold Coffee 468,Beverage,762
+item_469,Spicy Coke 469,Beverage,258
+item_470,Classic Salan 470,Side,402
+item_471,Classic Coke 471,Beverage,381
+item_472,Spicy Extra Dip 472,Side,664
+item_473,Classic Brownie 473,Dessert,337
+item_474,Spicy Pasta 474,Main,485
+item_475,Royal Pasta 475,Main,328
+item_476,Royal Coke 476,Beverage,622
+item_477,Royal Raita 477,Side,127
+item_478,Royal Ice Cream 478,Dessert,457
+item_479,Classic Raita 479,Side,734
+item_480,Spicy Extra Dip 480,Side,546
+item_481,Classic Garlic Bread 481,Starter,591
+item_482,Royal Shake 482,Beverage,127
+item_483,Royal Biryani 483,Main,214
+item_484,Classic Fries 484,Starter,673
+item_485,Classic Brownie 485,Dessert,714
+item_486,Classic Wings 486,Starter,243
+item_487,Spicy Cold Coffee 487,Beverage,305
+item_488,Classic Fries 488,Starter,335
+item_489,Spicy Burger 489,Main,374
+item_490,Spicy Ice Cream 490,Dessert,225
+item_491,Spicy Garlic Bread 491,Starter,757
+item_492,Classic Salan 492,Side,418
+item_493,Classic Raita 493,Side,777
+item_494,Royal Brownie 494,Dessert,683
+item_495,Classic Ice Cream 495,Dessert,557
+item_496,Spicy Coke 496,Beverage,737
+item_497,Classic Ice Cream 497,Dessert,340
+item_498,Classic Gulab Jamun 498,Dessert,449
+item_499,Spicy Ice Cream 499,Dessert,345
+item_500,Spicy Coke 500,Beverage,655
+item_501,Classic Gulab Jamun 501,Dessert,174
+item_502,Classic Roll 502,Starter,187
+item_503,Royal Coke 503,Beverage,386
+item_504,Classic Brownie 504,Dessert,612
+item_505,Classic Extra Dip 505,Side,342
+item_506,Royal Fries 506,Starter,335
+item_507,Royal Biryani 507,Main,434
+item_508,Spicy Ice Cream 508,Dessert,653
+item_509,Classic Roll 509,Starter,726
+item_510,Spicy Wrap 510,Main,465
+item_511,Spicy Shake 511,Beverage,174
+item_512,Royal Ice Cream 512,Dessert,391
+item_513,Spicy Pasta 513,Main,269
+item_514,Classic Thali 514,Main,165
+item_515,Spicy Salan 515,Side,141
+item_516,Royal Coke 516,Beverage,426
+item_517,Spicy Wings 517,Starter,389
+item_518,Royal Water 518,Beverage,770
+item_519,Royal Roll 519,Starter,693
+item_520,Spicy Pasta 520,Main,104
+item_521,Classic Ice Cream 521,Dessert,754
+item_522,Royal Thali 522,Main,712
+item_523,Classic Garlic Bread 523,Starter,692
+item_524,Spicy Garlic Bread 524,Starter,745
+item_525,Spicy Water 525,Beverage,516
+item_526,Spicy Coke 526,Beverage,641
+item_527,Spicy Cold Coffee 527,Beverage,554
+item_528,Royal Pasta 528,Main,553
+item_529,Royal Water 529,Beverage,220
+item_530,Royal Ice Cream 530,Dessert,636
+item_531,Classic Water 531,Beverage,291
+item_532,Classic Cold Coffee 532,Beverage,401
+item_533,Royal Pasta 533,Main,780
+item_534,Spicy Salan 534,Side,515
+item_535,Classic Wrap 535,Main,181
+item_536,Royal Burger 536,Main,170
+item_537,Classic Pizza 537,Main,223
+item_538,Spicy Coke 538,Beverage,202
+item_539,Classic Wings 539,Starter,685
+item_540,Spicy Cold Coffee 540,Beverage,674
+item_541,Classic Salan 541,Side,682
+item_542,Royal Water 542,Beverage,555
+item_543,Classic Brownie 543,Dessert,637
+item_544,Classic Water 544,Beverage,357
+item_545,Spicy Extra Dip 545,Side,293
+item_546,Classic Wings 546,Starter,798
+item_547,Royal Shake 547,Beverage,258
+item_548,Spicy Roll 548,Starter,706
+item_549,Spicy Brownie 549,Dessert,776
+item_550,Spicy Coke 550,Beverage,730
+item_551,Classic Brownie 551,Dessert,568
+item_552,Royal Fries 552,Starter,235
+item_553,Spicy Pizza 553,Main,681
+item_554,Classic Fries 554,Starter,589
+item_555,Spicy Ice Cream 555,Dessert,619
+item_556,Spicy Pasta 556,Main,304
+item_557,Royal Extra Dip 557,Side,788
+item_558,Classic Ice Cream 558,Dessert,296
+item_559,Spicy Cold Coffee 559,Beverage,763
+item_560,Classic Salan 560,Side,760
+item_561,Royal Brownie 561,Dessert,223
+item_562,Spicy Pizza 562,Main,293
+item_563,Classic Coke 563,Beverage,688
+item_564,Classic Burger 564,Main,297
+item_565,Royal Fries 565,Starter,678
+item_566,Spicy Coke 566,Beverage,248
+item_567,Spicy Gulab Jamun 567,Dessert,160
+item_568,Spicy Salan 568,Side,116
+item_569,Royal Wrap 569,Main,626
+item_570,Classic Wings 570,Starter,268
+item_571,Classic Biryani 571,Main,190
+item_572,Royal Garlic Bread 572,Starter,767
+item_573,Classic Roll 573,Starter,740
+item_574,Spicy Gulab Jamun 574,Dessert,205
+item_575,Royal Cold Coffee 575,Beverage,759
+item_576,Spicy Cold Coffee 576,Beverage,175
+item_577,Spicy Burger 577,Main,768
+item_578,Classic Fries 578,Starter,292
+item_579,Classic Pizza 579,Main,168
+item_580,Classic Wrap 580,Main,583
+item_581,Royal Wrap 581,Main,578
+item_582,Royal Ice Cream 582,Dessert,346
+item_583,Classic Fries 583,Starter,562
+item_584,Classic Gulab Jamun 584,Dessert,237
+item_585,Royal Ice Cream 585,Dessert,310
+item_586,Classic Wings 586,Starter,786
+item_587,Spicy Salan 587,Side,151
+item_588,Classic Brownie 588,Dessert,120
+item_589,Spicy Extra Dip 589,Side,291
+item_590,Spicy Brownie 590,Dessert,780
+item_591,Classic Cold Coffee 591,Beverage,163
+item_592,Spicy Roll 592,Starter,657
+item_593,Classic Water 593,Beverage,738
+item_594,Royal Extra Dip 594,Side,283
+item_595,Spicy Coke 595,Beverage,335
+item_596,Classic Brownie 596,Dessert,334
+item_597,Royal Extra Dip 597,Side,103
+item_598,Royal Cold Coffee 598,Beverage,472
+item_599,Classic Wrap 599,Main,205
+item_600,Royal Cold Coffee 600,Beverage,737
